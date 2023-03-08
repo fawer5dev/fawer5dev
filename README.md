@@ -16,6 +16,12 @@ I'm a Computer Systems Engineer with seven years of experience in the insurance 
 [![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 
+[![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![Kali Linux](https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=101010)]()
+[![Tails](https://img.shields.io/badge/tails-56347C?style=for-the-badge&logo=tails&logoColor=white&labelColor=101010)]()
+
+
 My passion for software development and commitment to ongoing career development have led me to pursue a part-time role as a Software Developer and Automation Tester. In this capacity, I am dedicated to delivering exceptional front-end and back-end technical work, helping businesses to enhance their existing software solutions and develop new value-added customs.
 
 I am excited about the opportunity to leverage my skills and experience to make a meaningful contribution to your organization. Please do not hesitate to contact me to discuss how I can help support your software development needs.
