@@ -18,7 +18,7 @@ I'm a Computer Systems Engineer with seven years of experience in the insurance 
 
 [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
-[![Kali Linux](https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=101010)]()
+[![Kali Linux](https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=101010)]()
 [![Tails](https://img.shields.io/badge/tails-56347C?style=for-the-badge&logo=tails&logoColor=white&labelColor=101010)]()
 
 
