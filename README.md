@@ -13,7 +13,7 @@ I'm a Software Engineer with seven years of experience in the insurance and digi
 [![Oracle](https://img.shields.io/badge/oracle-EB1510?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![Eclipse IDE](https://img.shields.io/badge/eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)]()
 [![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=101010)]()
-[![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 
 [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
