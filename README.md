@@ -7,9 +7,14 @@ I'm a Computer Systems Engineer with seven years of experience in the insurance 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![CSharp](https://img.shields.io/badge/csharp-green?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)]()
+[![CSharp](https://img.shields.io/badge/c_sharp-green?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/oracle-EB1510?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![Eclipse IDE](https://img.shields.io/badge/eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=101010)]()
+[![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 
 My passion for software development and commitment to ongoing career development have led me to pursue a part-time role as a Software Developer and Automation Tester. In this capacity, I am dedicated to delivering exceptional front-end and back-end technical work, helping businesses to enhance their existing software solutions and develop new value-added customs.
 
