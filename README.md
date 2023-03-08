@@ -1,6 +1,6 @@
 ### Hi, my name is Fawer Vargas 👋
 
-I'm a Computer Systems Engineer with seven years of experience in the insurance and digital agency industries, I bring a wealth of knowledge to the field of software development. Throughout my career, I have demonstrated expertise in custom website design, development, and management using a variety of technologies.
+I'm a Software Engineer with seven years of experience in the insurance and digital agency industries, I bring a wealth of knowledge to the field of software development. Throughout my career, I have demonstrated expertise in custom website design, development, and management using a variety of technologies.
 
 ## Technologies:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
