@@ -1,6 +1,6 @@
 ### Hi, my name is Fawer Vargas 👋
 
-I'm a Software Engineer with seven years of experience in the insurance and digital agency industries, I bring a wealth of knowledge to the field of software development. Throughout my career, I have demonstrated expertise in custom website design, development, and management using a variety of technologies.
+As a Software Engineer with a strong background in the insurance and digital agency industries, I bring extensive experience to the field of software development. Throughout my career, I have demonstrated expertise in custom website design, development, and management using a variety of cutting-edge technologies.
 
 ## Technologies:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -22,7 +22,7 @@ I'm a Software Engineer with seven years of experience in the insurance and digi
 [![Tails](https://img.shields.io/badge/tails-56347C?style=for-the-badge&logo=tails&logoColor=white&labelColor=101010)]()
 
 
-My passion for software development and commitment to ongoing career development have led me to pursue a part-time role as a Software Developer and Automation Tester. In this capacity, I am dedicated to delivering exceptional front-end and back-end technical work, helping businesses to enhance their existing software solutions and develop new value-added customs.
+Driven by my passion for software development and my commitment to continuous learning, I am currently pursuing a role as a Software Developer and Automation Tester. In this capacity, I am dedicated to delivering exceptional front-end and back-end technical work, helping businesses to optimize their existing software solutions and develop new value-added features.
 
 I am excited about the opportunity to leverage my skills and experience to make a meaningful contribution to your organization. Please do not hesitate to contact me to discuss how I can help support your software development needs.
 
