@@ -26,6 +26,13 @@ Driven by my passion for software development and my commitment to continuous le
 
 I am excited about the opportunity to leverage my skills and experience to make a meaningful contribution to your organization. Please do not hesitate to contact me to discuss how I can help support your software development needs.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fawer5dev" />
+</a>
+<a href="https://github.com/fawer5dev/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawer5dev" />
+</a>
+
 ## Follow me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fawer_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fawer5/)
 [![Facebook](https://img.shields.io/badge/Facebook-@fawer5-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/fawer5)
@@ -36,7 +43,11 @@ I am excited about the opportunity to leverage my skills and experience to make 
 ## Contact:
 [![Email](https://img.shields.io/badge/fawer5@hotmail.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010)](mailto:fawer5@hotmail.com)
 
+<br>
+<em>PROFILE VIEW </em>
+<br>
 
+![Visitor Count](https://profile-counter.glitch.me/{fawer5dev}/count.svg)
 
 <!--
 **fawer5dev/fawer5dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
