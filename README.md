@@ -1,6 +1,8 @@
 ### Hi, my name is Fawer Vargas 👋
 
-As a Software Engineer with a strong background in the insurance and digital agency industries, I bring extensive experience to the field of software development. Throughout my career, I have demonstrated expertise in custom website design, development, and management using a variety of cutting-edge technologies.
+I'm a Software Engineer with experience across the insurance and digital agency sectors, where I've worked on designing, developing, and maintaining custom web solutions. I enjoy building user-focused applications and working with modern technologies to solve real-world problems.
+
+I'm currently expanding my expertise in Software Development and Automation Testing, with a strong interest in delivering high-quality front-end and back-end solutions. Whether improving existing platforms or building new features from the ground up, my goal is always to create efficient, scalable, and reliable software.
 
 ## Technologies:
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
@@ -24,9 +26,8 @@ As a Software Engineer with a strong background in the insurance and digital age
 [![Tails](https://img.shields.io/badge/tails-56347C?style=for-the-badge&logo=tails&logoColor=white&labelColor=101010)]()
 
 
-Driven by my passion for software development and my commitment to continuous learning, I am currently pursuing a role as a Software Developer and Automation Tester. In this capacity, I am dedicated to delivering exceptional front-end and back-end technical work, helping businesses to optimize their existing software solutions and develop new value-added features.
-
-I am excited about the opportunity to leverage my skills and experience to make a meaningful contribution to your organization. Please do not hesitate to contact me to discuss how I can help support your software development needs.
+I’m always open to connecting, collaborating, or discussing new opportunities.
+Feel free to reach out — I’d love to chat about how I can contribute to your next project or development goals.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fawer5dev" />
