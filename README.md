@@ -46,9 +46,6 @@ Feel free to reach out — I’d love to chat about how I can contribute to your
 
 ## Follow me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fawer_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fawer5/)
-[![Facebook](https://img.shields.io/badge/Facebook-@fawer5-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/fawer5)
-[![Instagram](https://img.shields.io/badge/Instagram-@fawer5-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/fawer5)
-[![Twitch](https://img.shields.io/badge/Twitch-@fawer5-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/fawer5)
 [![Discord](https://img.shields.io/badge/Discord-@fawer5-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/836960362770989137)
 
 ## Contact:
